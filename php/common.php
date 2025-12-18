@@ -39,10 +39,10 @@ function isValidVolume($vol)
 	return preg_match("/^[0-9][0-9][0-9]$/", $vol) ? true : false;
 }
 
-function isValidissue($issue)
+function isValidPart($part)
 {
-	if(is_array($issue)){return false;}
-	return preg_match("/([0-9][0-9]\-[0-9][0-9])||([0-9][0-9])/", $issue) ? true : false;
+	if(is_array($part)){return false;}
+	return preg_match("/([0-9][0-9]\-[0-9][0-9])||([0-9][0-9])/", $part) ? true : false;
 }
 
 function isValidYear($year)
@@ -99,11 +99,11 @@ function entityReferenceReplace($term)
 	return($term);
 }
 
-function getYearMonth($volume, $issue)
+function getYearMonth($volume, $part)
 {
 	include("connect.php");
 
-	$query = "select distinct year,month from article where volume='$volume' and issue='$issue'";
+	$query = "select distinct year,month from article where volume='$volume' and part='$part'";
 	$result = $db->query($query);
 	$num_rows = $result ? $result->num_rows : 0;
 	if($num_rows > 0)
@@ -119,11 +119,11 @@ function getYearMonth($volume, $issue)
 	}
 }
 
-function getinfo($volume, $issue)
+function getmaasa($volume, $part)
 {
 	include("connect.php");
 
-	$query = "select distinct info from article where volume='$volume' and issue='$issue'";
+	$query = "select distinct maasa, samvatsara from article where volume='$volume' and part='$part'";
 	$result = $db->query($query);
 	$num_rows = $result ? $result->num_rows : 0;
 	if($num_rows > 0)
@@ -133,7 +133,8 @@ function getinfo($volume, $issue)
 	}
 	else
 	{
-		$row['info'] = '';
+		$row['maasa'] = '';
+		$row['samvatsara'] = '';
 		return($row);
 	}
 }
@@ -164,18 +165,20 @@ function getYear($volume)
 
 function getMonth($month)
 {
-	$month = preg_replace('/01/', 'January', $month);
-	$month = preg_replace('/02/', 'February', $month);
-	$month = preg_replace('/03/', 'March', $month);
-	$month = preg_replace('/04/', 'April', $month);
-	$month = preg_replace('/05/', 'May', $month);
-	$month = preg_replace('/06/', 'June', $month);
-	$month = preg_replace('/07/', 'July', $month);
-	$month = preg_replace('/08/', 'August', $month);
-	$month = preg_replace('/09/', 'September', $month);
-	$month = preg_replace('/10/', 'October', $month);
-	$month = preg_replace('/11/', 'November', $month);
-	$month = preg_replace('/12/', 'December', $month);
+	$month = preg_replace('/01/', 'ಜನವರಿ', $month);
+	$month = preg_replace('/02/', 'ಫೆಬ್ರವರಿ', $month);
+	$month = preg_replace('/03/', 'ಮಾರ್ಚ್', $month);
+	$month = preg_replace('/04/', 'ಏಪ್ರಿಲ್', $month);
+	$month = preg_replace('/05/', 'ಮೇ', $month);
+	$month = preg_replace('/06/', 'ಜೂನ್', $month);
+	$month = preg_replace('/07/', 'ಜುಲೈ', $month);
+	$month = preg_replace('/08/', 'ಆಗಸ್ಟ್', $month);
+	$month = preg_replace('/09/', 'ಸೆಪ್ಟೆಂಬರ್', $month);
+	$month = preg_replace('/10/', 'ಅಕ್ಟೋಬರ್', $month);
+	$month = preg_replace('/11/', 'ನವೆಂಬರ್', $month);
+	$month = preg_replace('/12/', 'ಡಿಸೆಂಬರ್', $month);
+
+	$month = preg_replace('/-/', ' &ndash; ', $month);
 	
 	return $month;
 }

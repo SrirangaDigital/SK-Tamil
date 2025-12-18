@@ -7,7 +7,7 @@ $pwd = $ARGV[3];
 
 use DBI();
 
-open(IN,"<:utf8","sktamil.xml") or die "can't open shankara_krupa.xml\n";
+open(IN,"<:utf8","sktamil.xml") or die "can't open sktamil.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 
