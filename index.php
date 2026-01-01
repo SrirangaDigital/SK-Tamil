@@ -3,7 +3,11 @@
 	<div id="head">
 		<div class="headbanner">
 			<div class="parallax-content">
-				<p class="fKan" style="font-size: 20px;line-height: 1.5;">नंदंति यत्प्रसादेन सुरासुरनरादयः ।<br />सर्वे भजंतु नित्यं ताम्<br /><span style="color: #8B0000;font-size: 40px;">श्री शंकरकृपां</span>&nbsp;शुभाम् ॥<br /><br /><br /><br />&nbsp;</p>
+				<!-- <p class="fKan" style="font-size: 20px;line-height: 1.5;">नंदंति यत्प्रसादेन सुरासुरनरादयः ।<br />सर्वे भजंतु नित्यं ताम्<br /><span style="color: #8B0000;font-size: 40px;">श्री शंकरकृपां</span>&nbsp;शुभाम् ॥<br /><br /><br /><br />&nbsp;</p> -->
+
+				<p class="fKan" style="font-size: 20px;line-height: 1.5;">नन्दन्ति यत्प्रसादेन सुरासुरनरादयः ।<br />सर्वे भजन्तु नित्यं ताम्<br /><span style="color: #8B0000;font-size: 40px;">श्री शङ्करकृपां</span>&nbsp;शुभाम् ॥<br /><br /><br /><br />&nbsp;</p>
+
+
 <!-- 				<img src="php/img/logo.gif" alt="" />
 				<h3>The Archive</h3> -->
 			</div>
