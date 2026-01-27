@@ -3,7 +3,7 @@
 
 <SKTML>
 	<volume vnum="001">
-		<part inum="03" month="09" year="" info="விகாரி: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09" year="" info="விகாரி : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>அறிவிப்பு</title>
 				<feature></feature>
@@ -77,7 +77,7 @@
 				<feature></feature>
 				<page>0049-0056</page>
 				<allauthors>
-					<author type="1" sal="">கிருஷ்ணஸ்வாமி ஐயர், ஆர்.</author>
+					<author type="1" sal="">கிருஷ்ணஸ்வாமி ஐய்யர், ஆர்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -129,7 +129,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01" year="" info="விகாரி: தை" maasa="" samvatsara="">
+		<part inum="07" month="01" year="" info="விகாரி : தை" maasa="" samvatsara="">
 			<entry>
 				<title>அறிவிப்பு</title>
 				<feature></feature>
@@ -289,7 +289,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>குறிப்புகன்</title>
+				<title>குறிப்புகள்</title>
 				<feature></feature>
 				<page>0056ak-0056am</page>
 				<allauthors />
@@ -301,7 +301,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11" month="05" year="" info="சார்வரி: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05" year="" info="சார்வரி : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>அறிவிப்பு</title>
 				<feature></feature>
@@ -411,7 +411,7 @@
 		</part>
 	</volume>
 	<volume vnum="002">
-		<part inum="01" month="07" year="" info="சார்வரி: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07" year="" info="சார்வரி : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ சாரதா புஜங்கம்</title>
 				<feature></feature>
@@ -522,7 +522,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08" year="" info="சார்வரி: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08" year="" info="சார்வரி : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>படங்கள் - சென்னைமாநகரில் ஸ்ரீ மகாஸ்வாமிகளுக்கு வரவேற்பு</title>
 				<feature></feature>
@@ -599,7 +599,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>வாஸிஷ்டஸாரம்</title>
+				<title>வாஸிஷ்ட ஸாரம்</title>
 				<feature></feature>
 				<page>0045-0048</page>
 				<allauthors>
@@ -653,7 +653,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="03" month="09" year="" info="சார்வரி: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09" year="" info="சார்வரி : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ சாரதா புஜங்கம்</title>
 				<feature></feature>
@@ -672,7 +672,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>श्रीचन्द्रमौळीश्वरस्तोत्रम्</title>
+				<title>श्रीचन्द्रमौलीश्वरस्तोत्रम्</title>
 				<feature></feature>
 				<page>0008-0009</page>
 				<allauthors>
@@ -804,7 +804,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10" year="" info="சார்வரி: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10" year="" info="சார்வரி : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>படம் - ஸ்ரீ மகா ஸ்வாமிகள் நவராத்ரி தர்பாருக்கு விஜயம் செய்யும்</title>
 				<feature></feature>
@@ -913,7 +913,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>வாஸிஷ்டஸாரம்</title>
+				<title>வாஸிஷ்ட ஸாரம்</title>
 				<feature></feature>
 				<page>0049-0050</page>
 				<allauthors>
@@ -953,14 +953,14 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11" year="" info="சார்வரி: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11" year="" info="சார்வரி : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ சாரதா புஜங்கம்</title>
 				<feature></feature>
 				<page>0001-0005</page>
 				<allauthors>
 					<author type="1" sal="">ஸ்ரீ சந்திரசேகரபாரதீ ஸ்வாமி</author>
-					<author type="1" sal="ஸ்ரீ">மஹாலிங்கய்யர், ஆர்.</author>
+					<author type="2" sal="ஸ்ரீ">மஹாலிங்கய்யர், ஆர்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1058,7 +1058,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12" year="" info="சார்வரி: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12" year="" info="சார்வரி : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ ஜகத்குரு நவரத்ன மாலா ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -1119,7 +1119,7 @@
 				<page>0034-0036</page>
 				<allauthors>
 					<author type="1" sal="ஸ்ரீ">சங்கரநாராயணன், கெ.</author>
-					<author type="1" sal="ஸ்ரீ">வில்லிப்புத்தூர்</author>
+					<author type="2" sal="ஸ்ரீ">வில்லிப்புத்தூர்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1131,7 +1131,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>வாஸிஷ்டஸாரம்</title>
+				<title>வாஸிஷ்ட ஸாரம்</title>
 				<feature></feature>
 				<page>0043-0048</page>
 				<allauthors>
@@ -1173,7 +1173,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01" year="" info="சார்வரி: தை" maasa="" samvatsara="">
+		<part inum="07" month="01" year="" info="சார்வரி : தை" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ ஜகத்குரு ஸ்தோத்ரம் - 2</title>
 				<feature></feature>
@@ -1219,7 +1219,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>வாஸிஷ்டஸாரம்</title>
+				<title>வாஸிஷ்ட ஸாரம்</title>
 				<feature></feature>
 				<page>0026-0027</page>
 				<allauthors>
@@ -1235,7 +1235,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ தேவீ பாகவத க்கதைகள் - 4. ``அகந்தையால் அழிந்த அஸுரர்'' (மதுகைடபர் கதை)</title>
+				<title>ஸ்ரீ தேவீ பாகவத க்கதைகள் - 4. “அகந்தையால் அழிந்த அஸுரர்” (மதுகைடபர் கதை)</title>
 				<feature></feature>
 				<page>0030-0032</page>
 				<allauthors>
@@ -1329,7 +1329,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="08" month="02" year="" info="சார்வரி: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02" year="" info="சார்வரி : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ ஸ்வயம்வரா பார்வதீ ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -1367,7 +1367,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ தேவீ பாகவதக்கதைகள் - 4. ``அகந்தையால் அழிந்த அஸுரர்'' (மதுகைடபர் கதை)</title>
+				<title>ஸ்ரீ தேவீ பாகவதக்கதைகள் - 4. “அகந்தையால் அழிந்த அஸுரர்” (மதுகைடபர் கதை)</title>
 				<feature></feature>
 				<page>0025-0028</page>
 				<allauthors>
@@ -1397,7 +1397,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>வாஸிஷ்டஸாரம்</title>
+				<title>வாஸிஷ்ட ஸாரம்</title>
 				<feature></feature>
 				<page>0038-0040</page>
 				<allauthors>
@@ -1427,7 +1427,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0042ai-0042an</page>
 				<allauthors />
@@ -1469,7 +1469,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03" year="" info="சார்வரி: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03" year="" info="சார்வரி : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ ஸ்வயம்வரா பார்வதீ ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -1571,7 +1571,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0040aq-0040at</page>
 				<allauthors />
@@ -1597,7 +1597,7 @@
 		</part>
 	</volume>
 	<volume vnum="003">
-		<part inum="01" month="07" year="" info="பிலவ: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07" year="" info="பிலவ : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -1697,7 +1697,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0044ai-0044al</page>
 				<allauthors>
@@ -1717,7 +1717,7 @@
 				<feature></feature>
 				<page>0044aq-0044at</page>
 				<allauthors>
-					<author type="1" sal="">அனந்தகிருஷ்ண சாஸ்திரி, எந். எஸ்.</author>
+					<author type="1" sal="">அனந்தகிருஷ்ண சாஸ்திரி, என். எஸ்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1746,8 +1746,195 @@
 				<page>0044bg-0044bg</page>
 				<allauthors />
 			</entry>
-		</part>
-		<part inum="03" month="09" year="" info="பிலவ: புரட்டாசி" maasa="" samvatsara="">
+		  </part>
+	    <part inum="02" month="" year="" info="பிலவ : ஆவணி" maasa="" samvatsara="">
+			<entry>
+				<title>பிரார்த்தனை</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author type="1" sal="">பக்திஸுதாதரங்கிணீ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிருங்ககிரி ஶ்ரீ மஹாஸ்வாமிகளின் உபதேசம்</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>எனது வாழ்க்கை அநுபவம்</title>
+				<feature></feature>
+				<page>0004-0010</page>
+				<allauthors>
+					<author type="1" sal=""> ஶ்ரீ ஜகத்குரு துவாரகா மஹாஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்புத சங்கரர்</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author type="1" sal="">காசீ ஶ்ரீ ஸச்சிதானந்த ஸரஸ்வதீ ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கீத ஸந்தேசம் - 13 (கீதைக் கடிதங்கள்)</title>
+				<feature></feature>
+				<page>0015-0020</page>
+				<allauthors>
+					<author type="1" sal="">அ. வெ. சுப்ரமணியன்</author>
+					<author type="2" sal="">ஶ்ரீ அபிநவவித்யாதீர்த்த ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அபிராமி அந்தாதி விளக்கம் - (முத்தியானந்தம்)</title>
+				<feature></feature>
+				<page>0021-0030</page>
+				<allauthors>
+					<author type="1" sal="">கி. வா. ஜகந்நாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>முரளியின் மஹிமை</title>
+				<feature></feature>
+				<page>0031-0034</page>
+				<allauthors>
+					<author type="1" sal="வித்வான்">N. சாரதாம்பாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கடோபநிஷத்(நாடகம்)</title>
+				<feature></feature>
+				<page>0035-0039</page>
+				<allauthors>
+					<author type="1" sal="">V. S. மணி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உங்களுக்குத் தெரியுமா ?</title>
+				<feature></feature>
+				<page>0039-0040</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ K. R. R. ஸாஸ்திரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்வைத சாஸ்திரத்தில் ப்ரஹ்ம தத்வம்</title>
+				<feature></feature>
+				<page>0040-0044</page>
+				<allauthors>
+					<author type="1" sal="பேராசிரியர்">M. K. வெங்கடராம அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ லலிதா ஸஹஸ்ரநாம ஸ்தோத்திரம்</title>
+				<feature></feature>
+				<page>0045-0048</page>
+				<allauthors>
+					<author type="1" sal="">V. R. லக்ஷ்மி அம்மாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருராஜ ஸ்மரணம்</title>
+				<feature></feature>
+				<page>0049-0052</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ R. கிருஷ்ணஸ்வாமி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பஞ்சதசீ (தமிழ் உரையுடன்)</title>
+				<feature></feature>
+				<page>0053-0056</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ N. S. அனந்தகிருஷ்ண சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருகிருபா விலாஸம்</title>
+				<feature></feature>
+				<page>0057-0060</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ பாஷ்ய ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உபதேச ஸாஹஸ்‌ரீ (தமிழ் உரையுடன்)</title>
+				<feature></feature>
+				<page>0061-0064</page>
+				<allauthors>
+					<author type="1" sal="">K. S. வெங்கடராம சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : சிருங்ககிரி ஶ்ரீ ஜகத்குரு மஹாஸ்வாமிகள் விஜய யாத்திரை</title>
+				<feature></feature>
+				<page>0065-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : கடப்பை முனிஸிபாலிடியாரின் வரவேற்பு</title>
+				<feature></feature>
+				<page>0069-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : பங்களூர் விஜயம்</title>
+				<feature></feature>
+				<page>0069-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : வியாஸ பூஜை</title>
+				<feature></feature>
+				<page>0071-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : அகிலபாரத சங்கரஸேவாஸமிதி வித்வத் ஸம்மேளனம்</title>
+				<feature></feature>
+				<page>0076-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : ஹிந்து அறநிலய கமிஷனின் கோவை விஜயம்</title>
+				<feature></feature>
+				<page>0078-0078</page>
+				<allauthors />
+			</entry>	
+			<entry>
+				<title>குறிப்புகள் : பழநி ஶ்ரீ தண்டாயுதபாணி சுவாமி கோடி அர்ச்சனை யக்ஞம்</title>
+				<feature></feature>
+				<page>0078-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : வரவேற்கிறோம்</title>
+				<feature></feature>
+				<page>0079-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : குண்டூர் சங்கர ஸேவா ஸமிதி கிளை ஸ்தாபனம்</title>
+				<feature></feature>
+				<page>0079-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள் : உபாகர்மா</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>இந்த இதழில்</title>
+				<feature></feature>
+				<page>0081-0082</page>
+				<allauthors />
+			</entry>
+	     </part>
+		<part inum="03" month="09" year="" info="பிலவ : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -1849,7 +2036,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0048ak-0048an</page>
 				<allauthors>
@@ -1877,7 +2064,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10" year="" info="பிலவ: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10" year="" info="பிலவ : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -1953,7 +2140,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0044aa-0044ad</page>
 				<allauthors />
@@ -2001,7 +2188,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12" year="" info="பிலவ: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12" year="" info="பிலவ : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (காலடி ஸ்ரீ சாரதாம்பாள் ஸ்தோத்திரம்)</title>
 				<feature></feature>
@@ -2087,7 +2274,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0040ai-0040al</page>
 				<allauthors>
@@ -2107,7 +2294,7 @@
 				<feature></feature>
 				<page>0040aq-0040ax</page>
 				<allauthors>
-					<author type="1" sal="">ஸ்ரீபாஷ்ய ஸ்வாமி</author>
+					<author type="1" sal="">ஸ்ரீ பாஷ்ய ஸ்வாமி</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2143,9 +2330,423 @@
 				<allauthors />
 			</entry>
 		</part>
+		<part inum="08" month="" year="" info="பிலவ : மாசி" maasa="" samvatsara="">
+			<entry>
+				<title>பிரார்த்தனை - (ஶ்ரீ சாரதாம்பாள் ஸ்தோத்திரம்)</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author type="1" sal="">பக்திஸுதாதரங்கிணீ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிருங்ககிரி ஶ்ரீ மஹாஸ்வாமிகளின் உபதேசம்</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>கீத ஸந்தேசம் - 19 (கீதைக் கடிதங்கள்)</title>
+				<feature></feature>
+				<page>0004-0011</page>
+				<allauthors>
+					<author type="1" sal="">அ. வெ. சுப்ரமணியன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>கடோபநிஷத் (நாடகம்)</title>
+				<feature></feature>
+				<page>0012-0021</page>
+				<allauthors>
+					<author type="1" sal="">V. S. மணி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்வைத சாஸ்திரத்தில் ப்ரஹ்ம தத்வம்</title>
+				<feature></feature>
+				<page>0022-0027</page>
+				<allauthors>
+					<author type="1" sal="பேராசிரியர்">M. K. வெங்கடராம அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அபிராமி அந்தாதி விளக்கம் - அன்னையின் தண்ணளி</title>
+				<feature></feature>
+				<page>0027-0029</page>
+				<allauthors>
+					<author type="1" sal="">கி. வா. ஜகந்நாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிறுகதை - “க்ஷிப்ரம் பவதி தர்மாத்மா” (ஒரு கற்பனைச்சித்திரம்)</title>
+				<feature></feature>
+				<page>0029-0036</page>
+				<allauthors>
+					<author type="1" sal="">கௌஸ்துபமணி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்புத சங்கரர் (இரண்டாவது பாகம்)</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors>
+					<author type="1" sal="">காசீ ஶ்ரீ ஸச்சிதானந்த ஸரஸ்வதீ ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பக்தியோகம் - (அருணாசலக்கவிராயர் ராமநாடகக் கீர்த்தனை)</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author type="1" sal="">T. S. சிவராமலிங்கம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருகிருபா விலாஸம்</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ பாஷ்ய ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பஞ்சதசீ (தமிழ் உரையுடன்)</title>
+				<feature></feature>
+				<page>0049-0052</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ N. S. அனந்தகிருஷ்ண சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உபதேச ஸாஹஸ்‌ரீ (தமிழ் உரையுடன்)</title>
+				<feature></feature>
+				<page>0053-0056</page>
+				<allauthors>
+					<author type="1" sal="">K. S. வெங்கடராம சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருராஜ ஸ்மரணம்</title>
+				<feature></feature>
+				<page>0057-0060</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ R. கிருஷ்ணஸ்வாமி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ லலிதா ஸஹஸ்ரநாம ஸ்தோத்ரம் (அகவல்)</title>
+				<feature></feature>
+				<page>0061-0064</page>
+				<allauthors>
+					<author type="1" sal="">V. R. லக்ஷ்மி அம்மாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>குறிப்புகள்</title>
+				<feature></feature>
+				<page>0065-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>இந்த இதழில்</title>
+				<feature></feature>
+				<page>0079-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>“ஶ்ரீ ஜகத்குரு கிரந்தமாலா”</title>
+				<feature></feature>
+				<page>0081-0081</page>
+				<allauthors>
+					<author type="1" sal="">K. V. சுப்பரத்னம் அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ராமேசுவர யாத்திரை செய்பவர்களுக்கு ஓர் அறிவிப்பு</title>
+				<feature></feature>
+				<page>0081-0082</page>
+				<allauthors />
+			</entry>
+		  </part>	
+	    <part inum="10" month="" year="" info="சுபகிருத் : சித்திரை" maasa="" samvatsara="">
+			<entry>
+				<title>பிரார்த்தனை</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ ராம நக்ஷத்ரமாலா ஸ்துதி</title>
+				<feature></feature>
+				<page>0002-0010</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ ஆர். கிருஷ்ணஸ்வாமி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிருங்ககிரி ஶ்ரீ மஹாஸ்வாமிகளின் உபதேசம்</title>
+				<feature></feature>
+				<page>0011-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>கடோபநிஷத் (நாடகம்)</title>
+				<feature></feature>
+				<page>0012-0016</page>
+				<allauthors>
+					<author type="1" sal="">V. S. மணி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்புத சங்கரர்</title>
+				<feature></feature>
+				<page>0016-0021</page>
+				<allauthors>
+					<author type="1" sal="">காசீ ஶ்ரீ ஸச்சிதானந்த ஸரஸ்வதீ ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்வைத சாஸ்திரத்தில் ப்ரஹ்ம தத்வம்</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="1" sal="பேராசிரியர்">M. K. வெங்கடராம அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அபிராமி அந்தாதி விளக்கம் - மூன்று செல்வம்</title>
+				<feature></feature>
+				<page>0025-0029</page>
+				<allauthors>
+					<author type="1" sal="">கி. வா. ஜகந்நாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஆயிரம்பேரைக் காப்பாற்றிய முருகன்</title>
+				<feature></feature>
+				<page>0030-0032</page>
+				<allauthors>
+					<author type="1" sal="">R. ஈசுவரன் கல்லிடைக்குறிச்சி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இது உங்களுக்குத் தெரியுமா ?</title>
+				<feature></feature>
+				<page>0032-0032</page>
+				<allauthors>
+					<author type="1" sal="">கே. ஆர். ஆர். சாஸ்திரி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருகிருபா விலாஸம்</title>
+				<feature></feature>
+				<page>0033-0040</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ பாஷ்ய ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பஞ்சதசீ (தமிழ் உரையுடன்)</title>
+				<feature></feature>
+				<page>0041-0044</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ N. S. அனந்தகிருஷ்ண சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருராஜ ஸ்மரணம்</title>
+				<feature></feature>
+				<page>0045-0048</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ R. கிருஷ்ணஸ்வாமி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ லலிதா ஸஹஸ்ரநாம ஸ்தோத்ரம் (அகவல்)</title>
+				<feature></feature>
+				<page>0049-0052</page>
+				<allauthors>
+					<author type="1" sal="">V. R. லக்ஷ்மி அம்மாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உபதேச ஸாஹஸ்‌ரீ (தமிழ் உரையுடன்)</title>
+				<feature></feature>
+				<page>0053-0056</page>
+				<allauthors>
+					<author type="1" sal="">K. S. வெங்கடராம சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிருங்ககிரி ஶ்ரீ மஹாஸ்வாமிகளின் விஜய யாத்திரை</title>
+				<feature></feature>
+				<page>0057-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>சந்தாதரர்களுக்கு ஓர் முக்ய அறிவிப்பு</title>
+				<feature></feature>
+				<page>0073-0073</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>இந்த இதழில்</title>
+				<feature></feature>
+				<page>0073-0073</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>“ஶ்ரீ ஜகத்குரு கிரந்தமாலா”</title>
+				<feature></feature>
+				<page>0074-0074</page>
+				<allauthors />
+			</entry>	
+	      </part>
+	    <part inum="12" month="" year="" info="சுபகிருத் : ஆனி" maasa="" samvatsara="">
+			<entry>
+				<title>பிரார்த்தனை - (ஶ்ரீ சாரதாம்பாள் ஸ்தோத்திரம்)</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors>
+					<author type="1" sal="">பக்திஸுதாதரங்கிணீ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ வேங்கடேச கராவலம்ப ஸ்தோத்திரம்</title>
+				<feature></feature>
+				<page>0002-0008</page>
+				<allauthors>
+					<author type="1" sal="">சிருங்ககிரி ஶ்ரீ ந்ருஸிம்ஹபாரதீ ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சிருங்ககிரி ஶ்ரீ மஹாஸ்வாமிகளின் உபதேசம்</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>கடோபநிஷத் (நாடகம்)</title>
+				<feature></feature>
+				<page>0010-0012</page>
+				<allauthors>
+					<author type="1" sal="">V. S. மணி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸதி சிரோமணி ஸதீ</title>
+				<feature></feature>
+				<page>0012-0017</page>
+				<allauthors>
+					<author type="1" sal="">S. மீணாக்ஷி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்புத சங்கரர்</title>
+				<feature></feature>
+				<page>0017-0022</page>
+				<allauthors>
+					<author type="1" sal="">காசீ ஶ்ரீ ஸச்சிதானந்த ஸரஸ்வதீ ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அபிராமி அந்தாதி விளக்கம் - அதிசயமான வடிவு</title>
+				<feature></feature>
+				<page>0023-0028</page>
+				<allauthors>
+					<author type="1" sal="">கி. வா. ஜகந்நாதன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஞானசம்பந்தரும்-கோள்களும்</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ அண்ணாவிராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இது உங்களுக்குத் தெரியுமா ?</title>
+				<feature></feature>
+				<page>0029-0029</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ குழந்தையானந்த ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அத்வைத சாஸ்திரத்தில் ப்ரஹ்ம தத்வம்</title>
+				<feature></feature>
+				<page>0030-0032</page>
+				<allauthors>
+					<author type="1" sal="பேராசிரியர்">M. K. வெங்கடராம அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ லலிதா ஸஹஸ்ரநாம ஸ்தோத்ரம் (அகவல்)</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="1" sal="">V. R. லக்ஷ்மி அம்மாள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>உபதேச ஸாஹஸ்‌ரீ (தமிழ் உரையுடன்)</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors>
+					<author type="1" sal="">K. S. வெங்கடராம சாஸ்திரிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருராஜ ஸ்மரணம்</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ R. கிருஷ்ணஸ்வாமி அய்யர்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ குருகிருபா விலாஸம்</title>
+				<feature></feature>
+				<page>0049-0056</page>
+				<allauthors>
+					<author type="1" sal="">ஶ்ரீ பாஷ்ய ஸ்வாமிகள்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>குறிப்புகள்</title>
+				<feature></feature>
+				<page>0057-0074</page>
+				<allauthors>
+					<author type="1" sal="">K. V. சுப்பரத்னம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>“ஶ்ரீ ஜகத்குரு கிரந்தமாலா”</title>
+				<feature></feature>
+				<page>0075-0078</page>
+				<allauthors>
+					<author type="1" sal="">K. V. சுப்பரத்னம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>3வது மலரின்	 விஷய அட்டவணை</title>
+				<feature></feature>
+				<page>0079-0084</page>
+				<allauthors>
+					<author type="1" sal="">K. R. வெங்கடராமன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>இந்த இதழில்</title>
+				<feature></feature>
+				<page>0085-0086</page>
+				<allauthors />
+			</entry>	
+	     </part>
 	</volume>
 	<volume vnum="004">
-		<part inum="01" month="07" year="1962" info="சுபக்ருத்: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07" year="1962" info="சுபக்ருத் : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -2223,7 +2824,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``நான்" என்பதின் ஆராய்ச்சி</title>
+				<title>“நான்” என்பதின் ஆராய்ச்சி</title>
 				<feature></feature>
 				<page>0039-0042</page>
 				<allauthors>
@@ -2240,7 +2841,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0048aa-0048ad</page>
 				<allauthors>
@@ -2284,7 +2885,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08" year="1962" info="சுபகிருது: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08" year="1962" info="சுபகிருது : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -2338,7 +2939,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``நான்" என்பதின் ஆராய்ச்சி</title>
+				<title>“நான்” என்பதின் ஆராய்ச்சி</title>
 				<feature></feature>
 				<page>0073-0077</page>
 				<allauthors>
@@ -2387,7 +2988,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0096ai-0096al</page>
 				<allauthors>
@@ -2421,7 +3022,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="03" month="09" year="1962" info="சுபகிருது: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09" year="1962" info="சுபகிருது : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்வாகத பத்ரிகை</title>
 				<feature></feature>
@@ -2513,7 +3114,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0144aa-0144ad</page>
 				<allauthors>
@@ -2550,7 +3151,7 @@
 				<page>0144aq-0144ax</page>
 				<allauthors>
 					<author type="1" sal="">லெக்ஷ்மணன், எஸ். வி.</author>
-					<author type="1" sal="">சுப்ரமண்ய சர்மா, ஆர்.</author>
+					<author type="2" sal="">சுப்ரமண்ய சர்மா, ஆர்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2560,7 +3161,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10" year="1962" info="சுபக்ருத்: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10" year="1962" info="சுபக்ருத் : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -2712,7 +3313,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11" year="1962" info="சுபகிருது: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11" year="1962" info="சுபகிருது : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -2750,7 +3351,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ தேவீ பாகவத க்கதைகள் - ``மஹா மாயையின் மஹிமை"</title>
+				<title>ஸ்ரீ தேவீ பாகவத க்கதைகள் - “மஹா மாயையின் மஹிமை”</title>
 				<feature></feature>
 				<page>0222-0225</page>
 				<allauthors>
@@ -2828,7 +3429,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0256ae-0256ah</page>
 				<allauthors>
@@ -2866,7 +3467,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12" year="1962" info="சுபகிருது: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12" year="1962" info="சுபகிருது : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -2950,7 +3551,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0304aa-0304ad</page>
 				<allauthors>
@@ -2994,7 +3595,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01" year="1963" info="சுபகிருது: தை" maasa="" samvatsara="">
+		<part inum="07" month="01" year="1963" info="சுபகிருது : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -3068,7 +3669,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0352aa-0352ad</page>
 				<allauthors>
@@ -3106,7 +3707,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="08" month="02" year="1963" info="சுபகிருது: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02" year="1963" info="சுபகிருது : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -3190,7 +3791,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0392aa-0392ad</page>
 				<allauthors>
@@ -3230,7 +3831,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03" year="1963" info="சுபகிருது: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03" year="1963" info="சுபகிருது : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ ராமாஷ்டப்ராஸஸ்தவம்)</title>
 				<feature></feature>
@@ -3298,7 +3899,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0440aa-0440ad</page>
 				<allauthors>
@@ -3328,7 +3929,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10" month="04" year="1963" info="சோபகிருத்: சித்திரை" maasa="" samvatsara="">
+		<part inum="10" month="04" year="1963" info="சோபகிருத் : சித்திரை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -3405,7 +4006,7 @@
 				<page>0474-0476</page>
 				<allauthors>
 					<author type="1" sal="">ஸ்ரீபாஷ்ய ஸ்வாமி</author>
-					<author type="1" sal="">வெங்கடராம சாஸ்திரி, கெ. எஸ்.</author>
+					<author type="2" sal="">வெங்கடராம சாஸ்திரி, கெ. எஸ்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3417,7 +4018,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ குரூராஜ ஸ்மரணம்</title>
+				<title>ஸ்ரீ குருராஜ ஸ்மரணம்</title>
 				<feature></feature>
 				<page>0476ae-0476am</page>
 				<allauthors>
@@ -3463,7 +4064,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="11" month="05" year="1963" info="சோபகிருத்: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05" year="1963" info="சோபகிருத் : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -3528,7 +4129,7 @@
 				<page>0511-0516</page>
 				<allauthors>
 					<author type="1" sal="வித்வான்">சுப்பிரமணியன், வெ.</author>
-					<author type="1" sal="ஸ்ரீ">வெங்கடகிருஷ்ணா உயர்நிலைப்பள்ளி</author>
+					<author type="2" sal="ஸ்ரீ">வெங்கடகிருஷ்ணா உயர்நிலைப்பள்ளி</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3568,7 +4169,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06" year="1963" info="சோபகிருத்: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06" year="1963" info="சோபகிருத் : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (மாதவிய சங்கரவிஜயத்தில் வியாஸஸ்துதி)</title>
 				<feature></feature>
@@ -3682,7 +4283,7 @@
 		</part>
 	</volume>
 	<volume vnum="005">
-		<part inum="01" month="07" year="1963" info="சோபகிருத்: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07" year="1963" info="சோபகிருத் : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -3824,7 +4425,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08" year="1963" info="சோபகிருத்: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08" year="1963" info="சோபகிருத் : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ கமலஜதயிதாஷ்டகம்)</title>
 				<feature></feature>
@@ -3966,7 +4567,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="03" month="09" year="1963" info="சோபகிருத்: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09" year="1963" info="சோபகிருத் : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ கமலஜதயிதாஷ்டகம்)</title>
 				<feature></feature>
@@ -4127,7 +4728,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10" year="1963" info="சோபக்ருத்: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10" year="1963" info="சோபக்ருத் : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீசாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -4210,7 +4811,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11" year="1963" info="சோபக்ருத்: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11" year="1963" info="சோபக்ருத் : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -4354,7 +4955,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12" year="1963" info="சோபக்ருத்: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12" year="1963" info="சோபக்ருத் : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -4484,7 +5085,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01" year="1964" info="சோபக்ருத்: தை" maasa="" samvatsara="">
+		<part inum="07" month="01" year="1964" info="சோபக்ருத் : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -4580,7 +5181,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="08" month="02" year="1964" info="சோபக்ருத்: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02" year="1964" info="சோபக்ருத் : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -4710,7 +5311,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1964" info="சோபக்ருத்: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1964" info="சோபக்ருத் : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -4830,7 +5431,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10" month="04-05" year="1964" info="க்ரோதி: சித்திரை" maasa="" samvatsara="">
+		<part inum="10" month="04-05" year="1964" info="க்ரோதி : சித்திரை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -4932,7 +5533,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>``ஸ்ரீ ஜகத்குரு க்ரந்தமாலா" 40 மலர்கள் கொண்டது</title>
+				<title>“ஸ்ரீ ஜகத்குரு க்ரந்தமாலா” 40 மலர்கள் கொண்டது</title>
 				<feature></feature>
 				<page>0450at-0450at</page>
 				<allauthors />
@@ -4944,7 +5545,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11" month="05-06" year="1964" info="க்ரோதி: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05-06" year="1964" info="க்ரோதி : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>दिव्यसन्देशः</title>
 				<feature></feature>
@@ -5061,7 +5662,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1964" info="க்ரோதி: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1964" info="க்ரோதி : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -5152,7 +5753,7 @@
 		</part>
 	</volume>
 	<volume vnum="006">
-		<part inum="05" month="11-12" year="1964" info="க்ரோதி: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1964" info="க்ரோதி : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -5282,7 +5883,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12-01" year="1964" info="க்ரோதி: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12-01" year="1964" info="க்ரோதி : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -5408,7 +6009,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1965" info="க்ரோதி: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1965" info="க்ரோதி : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -5525,7 +6126,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1965" info="விச்வாவஸு: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1965" info="விச்வாவஸு : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (மாதவிய சங்கரவிஜயம்)</title>
 				<feature></feature>
@@ -5640,7 +6241,7 @@
 		</part>
 	</volume>
 	<volume vnum="007">
-		<part inum="01" month="07-08" year="1965" info="விச்வாவஸு: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1965" info="விச்வாவஸு : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -5777,7 +6378,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08-09" year="1965" info="விச்வாவஸு: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08-09" year="1965" info="விச்வாவஸு : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -5916,7 +6517,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="03" month="09-10" year="1965" info="விச்வாவஸு: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09-10" year="1965" info="விச்வாவஸு : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -6045,7 +6646,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10-11" year="1965" info="விச்வாவஸு: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10-11" year="1965" info="விச்வாவஸு : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (சிவோத்கர்ஷ மஞ்ஜரீ)</title>
 				<feature></feature>
@@ -6194,7 +6795,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1965" info="விச்வாவஸு: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1965" info="விச்வாவஸு : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -6311,7 +6912,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12-01" year="1965" info="விச்வாவஸு: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12-01" year="1965" info="விச்வாவஸு : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -6440,7 +7041,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1966" info="விச்வாவஸு: தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1966" info="விச்வாவஸு : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -6549,7 +7150,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1966" info="விச்வாவஸு: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1966" info="விச்வாவஸு : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -6577,7 +7178,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>``நல்லோரிணக்கம்"</title>
+				<title>“நல்லோரிணக்கம்”</title>
 				<feature></feature>
 				<page>0359-0362</page>
 				<allauthors>
@@ -6666,7 +7267,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1966" info="விச்வாவஸு: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1966" info="விச்வாவஸு : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>ஆர்யாம்பிகா சங்கர சாரதா ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -6794,7 +7395,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10" month="04-05" year="1966" info="பராபவ: சித்திரை" maasa="" samvatsara="">
+		<part inum="10" month="04-05" year="1966" info="பராபவ : சித்திரை" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ சிருங்கேரி ஸ்ரீ ஜகத்குரு மஹாஸ்வாமிகள் அவர்களின் புத்தாண்டு ஆசிச்செய்தி</title>
 				<feature></feature>
@@ -6975,7 +7576,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="11" month="05-06" year="1966" info="பராபவ: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05-06" year="1966" info="பராபவ : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதாம்பா ஸ்தோத்ரமாலிகா)</title>
 				<feature></feature>
@@ -7110,7 +7711,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1966" info="பராபவ: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1966" info="பராபவ : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (மாதவீய சங்கர விஜயம்)</title>
 				<feature></feature>
@@ -7179,7 +7780,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>``108 ?"</title>
+				<title>“108 ?”</title>
 				<feature></feature>
 				<page>0585-0588</page>
 				<allauthors>
@@ -7254,7 +7855,7 @@
 		</part>
 	</volume>
 	<volume vnum="008">
-		<part inum="01" month="07-08" year="1966" info="பராபவ: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1966" info="பராபவ : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -7381,7 +7982,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08-09" year="1966" info="பராபவ: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08-09" year="1966" info="பராபவ : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -7539,7 +8140,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="03" month="09-10" year="1966" info="பராபவ: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09-10" year="1966" info="பராபவ : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -7686,7 +8287,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10-11" year="1966" info="பராபவ: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10-11" year="1966" info="பராபவ : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸந்தேசம் - கனம் கே. ஸி. ரெட்டி, கவர்னர், மத்யப்ரதேசம் - स्वागतपत्रिका</title>
 				<feature></feature>
@@ -7828,7 +8429,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1966" info="பராபவ: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1966" info="பராபவ : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -7946,7 +8547,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12-01" year="1966" info="பராபவ: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12-01" year="1966" info="பராபவ : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ கிருஷ்ணஷ்டகம்)</title>
 				<feature></feature>
@@ -8061,7 +8662,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1967" info="பராபவ: தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1967" info="பராபவ : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஆதித்ய ஸ்தோத்ரம்)</title>
 				<feature></feature>
@@ -8139,7 +8740,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sringeri and Sri Samkara</title>
+				<title>Sringeri and Sri Sankara</title>
 				<feature></feature>
 				<page>0333-0339</page>
 				<allauthors>
@@ -8171,7 +8772,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1967" info="பராபவ: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1967" info="பராபவ : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சிவஸ்தவகதம்பம்)</title>
 				<feature></feature>
@@ -8315,7 +8916,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1967" info="பராபவ: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1967" info="பராபவ : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -8447,7 +9048,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10" month="04-05" year="1967" info="பிலவங்க: சித்திரை" maasa="" samvatsara="">
+		<part inum="10" month="04-05" year="1967" info="பிலவங்க : சித்திரை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (த்ரிபுரஸுந்தரீ வேதபாதஸ்தவம்)</title>
 				<feature></feature>
@@ -8601,7 +9202,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11" month="05-06" year="1967" info="பிலவங்க: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05-06" year="1967" info="பிலவங்க : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ ந்ருஸிம்ஹ புஜங்கப்ரயாதஸ்தவம்)</title>
 				<feature></feature>
@@ -8739,7 +9340,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1967" info="பிலவங்க: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1967" info="பிலவங்க : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -8885,7 +9486,7 @@
 		</part>
 	</volume>
 	<volume vnum="009">
-		<part inum="03" month="09-10" year="1967" info="பிலவங்க: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09-10" year="1967" info="பிலவங்க : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -9022,7 +9623,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1967" info="பிலவங்க கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1967" info="பிலவங்க : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பம்பாயில் சிருங்கேரி ஸ்ரீ ஜகத்குரு</title>
 				<feature></feature>
@@ -9172,7 +9773,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1968" info="பிலவங்க தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1968" info="பிலவங்க : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பம்பாயில் சிருங்கேரி ஸ்ரீ ஜகத்குரு</title>
 				<feature></feature>
@@ -9312,7 +9913,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1968" info="பிலவங்க மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1968" info="பிலவங்க : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ வாணீ பாரைவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -9476,7 +10077,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>1967 டிஸம்பரில் ஶ்ரீ ஜகத்சுரு விஜய யாத்திரை (ஆநதிர பிரதேசம்)</title>
+				<title>1967 டிஸம்பரில் ஶ்ரீ ஜகத்சுரு விஜய யாத்திரை (ஆந்திர பிரதேசம்)</title>
 				<feature></feature>
 				<page>0410o-0410q</page>
 				<allauthors>
@@ -9490,7 +10091,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11" month="05-06" year="1968" info="கீலக: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05-06" year="1968" info="கீலக : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -9668,7 +10269,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1968" info="கீலக ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1968" info="கீலக : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்ததனை (பக்திஸுதாசரங்கிணி )</title>
 				<feature></feature>
@@ -9816,7 +10417,7 @@
 		</part>
 	</volume>
 	<volume vnum="010">
-		<part inum="01" month="07-08" year="1968" info="கீலக ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1968" info="கீலக : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கினரி)</title>
 				<feature></feature>
@@ -9884,7 +10485,7 @@
 				<feature></feature>
 				<page>0032-0032</page>
 				<allauthors>
-					<author type="1" sal="">பைங்காராடு ஸ்ரீ கனாபதி சாஸ்திரிகள்‌ </author>
+					<author type="1" sal="">பைங்காராடு ஸ்ரீ கனாபதி சாஸ்திரிகள்‌</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9950,7 +10551,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10-11" year="1968" info="கீலக: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10-11" year="1968" info="கீலக : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -10098,7 +10699,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1968" info="கீலக: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1968" info="கீலக : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -10242,7 +10843,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1969" info="கீலக: தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1969" info="கீலக : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்துதி)</title>
 				<feature></feature>
@@ -10390,7 +10991,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1969" info="கீலக: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1969" info="கீலக : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ப்ரணாமராமாயணம்)</title>
 				<feature></feature>
@@ -10506,7 +11107,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11" month="05-06" year="1969" info="ஸெளம்ய: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05-06" year="1969" info="ஸெளம்ய : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்தவம்)</title>
 				<feature></feature>
@@ -10636,7 +11237,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1969" info="ஸெளம்ய: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1969" info="ஸெளம்ய : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீவாணீ பாண்யவலம்ப ஸ்தவம்)</title>
 				<feature></feature>
@@ -10810,7 +11411,7 @@
 		</part>
 	</volume>
 	<volume vnum="011">
-		<part inum="01" month="07-08" year="1969" info="ஸெளம்ய: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1969" info="ஸெளம்ய : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>श्री शृङ्गेरी श्री जगद्गुरु संस्तानम् श्रीमुखम्</title>
 				<feature></feature>
@@ -10922,7 +11523,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஜ்யோதி ஸர(ஸ்) தீர்த்தம் - குருக்ஷேத்ரம் ``அர்ஜுன பாண"</title>
+				<title>ஜ்யோதி ஸர(ஸ்) தீர்த்தம் - குருக்ஷேத்ரம் “அர்ஜுன பாண”</title>
 				<feature></feature>
 				<page>0009-0012</page>
 				<allauthors>
@@ -17094,7 +17695,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``தாரா-மந்தோதரி"</title>
+				<title>“தாரா-மந்தோதரி”</title>
 				<feature></feature>
 				<page>0494-0496</page>
 				<allauthors>
@@ -17802,7 +18403,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``பத்து தலைமுறைகள்"</title>
+				<title>“பத்து தலைமுறைகள்”</title>
 				<feature></feature>
 				<page>0239-0240</page>
 				<allauthors>
@@ -18938,7 +19539,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``இச்சை சித்தர்" ஸ்ரீ தியாகராஜர்</title>
+				<title>“இச்சை சித்தர்” ஸ்ரீ தியாகராஜர்</title>
 				<feature></feature>
 				<page>0297-0300</page>
 				<allauthors>
@@ -19874,7 +20475,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Review of Discussion on ``Mulavidya"</title>
+				<title>Review of Discussion on “Mulavidya”</title>
 				<feature></feature>
 				<page>0177-0180</page>
 				<allauthors>
@@ -19942,7 +20543,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Review of Discussion on ``Mulavidya"</title>
+				<title>Review of Discussion on “Mulavidya”</title>
 				<feature></feature>
 				<page>0201-0204</page>
 				<allauthors>
@@ -20033,7 +20634,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Review of Discussion on ``Mulavidya"</title>
+				<title>Review of Discussion on “Mulavidya”</title>
 				<feature></feature>
 				<page>0241-0246</page>
 				<allauthors>
@@ -20161,7 +20762,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``இறை வழிபாட்டில் இசை"</title>
+				<title>“இறை வழிபாட்டில் இசை”</title>
 				<feature></feature>
 				<page>0301-0302</page>
 				<allauthors>
@@ -20169,7 +20770,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``கபிலோபதேசம்"</title>
+				<title>“கபிலோபதேசம்”</title>
 				<feature></feature>
 				<page>0303-0304</page>
 				<allauthors>
@@ -20217,7 +20818,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>``காசி கும்பாபிஷேகச் சிறப்பு மலர்"</title>
+				<title>“காசி கும்பாபிஷேகச் சிறப்பு மலர்”</title>
 				<feature></feature>
 				<page>0324aa-0324aa</page>
 				<allauthors />
@@ -20937,7 +21538,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``அயோத்யா"</title>
+				<title>“அயோத்யா”</title>
 				<feature></feature>
 				<page>0113-0117</page>
 				<allauthors>
@@ -21705,7 +22306,7 @@
 		</part>
 	</volume>
 	<volume vnum="020">
-		<part inum="01" month="07-08" year="1978" info="காளயுக்தி: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1978" info="காளயுக்தி : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>20-வது மலரின் விஷய அட்டவணை</title>
 				<feature></feature>
@@ -21776,7 +22377,7 @@
 				<page>0025-0030</page>
 				<allauthors>
 					<author type="1" sal="">ஸ்ரீ குழந்தையானந்த ஸ்வாமி</author>
-					<author type="1" sal="ஸ்ரீ">கோபாலகிருஷ்ணன், பி. எஸ்.</author>
+					<author type="2" sal="ஸ்ரீ">கோபாலகிருஷ்ணன், பி. எஸ்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21828,7 +22429,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08-09" year="1978" info="காளயுக்தி: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08-09" year="1978" info="காளயுக்தி : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ கணேச ஸ்துதி மஞ்ஜரீ)</title>
 				<feature></feature>
@@ -21871,7 +22472,7 @@
 				<page>0057-0062</page>
 				<allauthors>
 					<author type="1" sal="">ஸ்ரீ குழந்தையானந்த ஸ்வாமி</author>
-					<author type="1" sal="ஸ்ரீ">கோபாலகிருஷ்ணன், பி. எஸ்.</author>
+					<author type="2" sal="ஸ்ரீ">கோபாலகிருஷ்ணன், பி. எஸ்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21931,7 +22532,7 @@
 				<feature></feature>
 				<page>0085-0090</page>
 				<allauthors>
-					<author type="1" sal="Sringagiri Kavi">Narasima Sharma</author>
+					<author type="1" sal="Sringagiri Kavi">Narasimha Sharma</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21949,7 +22550,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="03-04" month="09-10" year="1978" info="காளயுக்தி: புரட்டாசி-ஐப்பசி" maasa="" samvatsara="">
+		<part inum="03-04" month="09-10" year="1978" info="காளயுக்தி : புரட்டாசி-ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>படம் - சிருங்கேரியில் ஸ்ரீ கணபதி வாக்யார்த்த ஸதஸ்ஸில் ஸ்ரீ மஹாஸந்நிதானம்</title>
 				<feature></feature>
@@ -21977,7 +22578,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>சிவலீலார்ணவத்தில் `மாணிக்கவாசகர் சரிதம்'</title>
+				<title>சிவலீலார்ணவத்தில் ‘மாணிக்கவாசகர் சரிதம்’</title>
 				<feature></feature>
 				<page>0101-0106</page>
 				<allauthors>
@@ -22091,7 +22692,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05-06" month="11-12" year="1978" info="காளயுக்தி: கார்த்திகை-மார்கழி" maasa="" samvatsara="">
+		<part inum="05-06" month="11-12" year="1978" info="காளயுக்தி : கார்த்திகை-மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -22161,7 +22762,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஆபத்து வந்தால்.....</title>
+				<title>ஆபத்து வந்தால்......</title>
 				<feature></feature>
 				<page>0203-0206</page>
 				<allauthors>
@@ -22169,7 +22770,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>கண்ணன் அவதாரம்-எதற்காக?</title>
+				<title>கண்ணன் அவதாரம்-எதற்காக ?</title>
 				<feature></feature>
 				<page>0207-0213</page>
 				<allauthors />
@@ -22217,7 +22818,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1979" info="காளயுக்தி: தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1979" info="காளயுக்தி : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -22307,7 +22908,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1979" info="காளயுக்தி: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1979" info="காளயுக்தி : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -22415,7 +23016,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1979" info="காளயுக்தி: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1979" info="காளயுக்தி : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ வேங்கடேச கராவலம்ப ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -22459,7 +23060,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``சங்கர க்ருபா"</title>
+				<title>“சங்கர க்ருபா”</title>
 				<feature></feature>
 				<page>0363-0366</page>
 				<allauthors>
@@ -22503,7 +23104,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10-11" month="04-05" year="1979" info="ஸித்தார்த்தி: சித்திரை-வைகாசி" maasa="" samvatsara="">
+		<part inum="10-11" month="04-05" year="1979" info="ஸித்தார்த்தி : சித்திரை-வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (காலடி க்ஷேத்ர ஸ்தோத்ரம்)</title>
 				<feature></feature>
@@ -22607,7 +23208,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1979" info="ஸித்தார்த்தி: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1979" info="ஸித்தார்த்தி : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -22656,7 +23257,7 @@
 				<page>0465-0465</page>
 				<allauthors>
 					<author type="1" sal="ஸ்ரீ">சுப்பரத்னம், கெ. வி.</author>
-					<author type="1" sal="">ஆசிரியர்</author>
+					<author type="2" sal="">ஆசிரியர்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22684,7 +23285,7 @@
 		</part>
 	</volume>
 	<volume vnum="021">
-		<part inum="01" month="07-08" year="1979" info="ஸித்தார்த்தி: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1979" info="ஸித்தார்த்தி : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>ஆசிச்செய்தி</title>
 				<feature></feature>
@@ -22717,7 +23318,7 @@
 				<page>0007-0012</page>
 				<allauthors>
 					<author type="1" sal="ஸ்ரீ">சுப்பரத்னம், கெ. வி.</author>
-					<author type="1" sal="">ஆசிரியர்</author>
+					<author type="2" sal="">ஆசிரியர்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22751,7 +23352,7 @@
 		</part>
 	</volume>
 	<volume vnum="022">
-		<part inum="01" month="07-08" year="1980" info="ரெளத்ரி: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1980" info="ரெளத்ரி : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>22-வது மலரின் விஷய அட்டவணை</title>
 				<feature></feature>
@@ -22777,7 +23378,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Divine Revelation of Krishna's Horoscope</title>
+				<title>Divine Revelation of Krishna’s Horoscope</title>
 				<feature></feature>
 				<page>0006-0008</page>
 				<allauthors>
@@ -22820,7 +23421,7 @@
 				<page>0020-0020</page>
 				<allauthors>
 					<author type="1" sal="ஸ்ரீ">சுப்பரத்னம், கெ. வி.</author>
-					<author type="1" sal="">ஆசிரியர்</author>
+					<author type="2" sal="">ஆசிரியர்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22832,7 +23433,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>முக்தன் யார்? (ப்ரஹ்மாநுசிந்தனம்)</title>
+				<title>முக்தன் யார் ? (ப்ரஹ்மாநுசிந்தனம்)</title>
 				<feature></feature>
 				<page>0024-0024</page>
 				<allauthors />
@@ -22860,7 +23461,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="02" month="08-09" year="1980" info="ரெளத்ரி: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08-09" year="1980" info="ரெளத்ரி : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ த்ரிபுரஸுந்தரி அஷ்டகம்)</title>
 				<feature></feature>
@@ -22888,7 +23489,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Divine Revelation of Krishna's Horoscope</title>
+				<title>Divine Revelation of Krishna’s Horoscope</title>
 				<feature></feature>
 				<page>0041-0045</page>
 				<allauthors>
@@ -22902,7 +23503,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>``பம்பாஸரஸ்"</title>
+				<title>“பம்பாஸரஸ்”</title>
 				<feature></feature>
 				<page>0046-0046</page>
 				<allauthors>
@@ -22962,7 +23563,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="03" month="09-10" year="1980" info="ரெளத்ரி: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09-10" year="1980" info="ரெளத்ரி : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ கணேச புஜங்கம்)</title>
 				<feature></feature>
@@ -23033,7 +23634,7 @@
 				<page>0095-0105</page>
 				<allauthors>
 					<author type="1" sal="ஸ்ரீ">சுப்பரத்னம், கெ. வி.</author>
-					<author type="1" sal="">ஆசிரியர்</author>
+					<author type="2" sal="">ஆசிரியர்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23051,7 +23652,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="04" month="10-11" year="1980" info="ரெளத்ரி: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10-11" year="1980" info="ரெளத்ரி : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சாரதா புஜங்க ப்ரயாதாஷ்டகம்)</title>
 				<feature></feature>
@@ -23105,7 +23706,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>எந்நிலையிலாயினும் மகவை விரும்பி ஏற்பவள் அன்னையே!</title>
+				<title>எந்நிலையிலாயினும் மகவை விரும்பி ஏற்பவள் அன்னையே !</title>
 				<feature></feature>
 				<page>0126-0128</page>
 				<allauthors>
@@ -23171,7 +23772,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1980" info="ரெளத்ரி: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1980" info="ரெளத்ரி : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ ஸுப்ரஹ்மண்ய புஜங்கம்)</title>
 				<feature></feature>
@@ -23185,7 +23786,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>மீனாக்ஷி வந்தாள்!</title>
+				<title>மீனாக்ஷி வந்தாள் !</title>
 				<feature></feature>
 				<page>0154-0157</page>
 				<allauthors>
@@ -23237,7 +23838,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="06" month="12-01" year="1980" info="ரெளத்ரி: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12-01" year="1980" info="ரெளத்ரி : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (சபரிமலை ஐயப்ப ஸ்தோத்ரம்)</title>
 				<feature></feature>
@@ -23283,7 +23884,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>இன்றும் வருவாள்!</title>
+				<title>இன்றும் வருவாள் !</title>
 				<feature></feature>
 				<page>0204-0204</page>
 				<allauthors>
@@ -23336,7 +23937,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1981" info="ரெளத்ரி: தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1981" info="ரெளத்ரி : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ குரு ஸுவர்ணமாலா ஸ்தோத்ரம்)</title>
 				<feature></feature>
@@ -23404,7 +24005,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``காயத்ரீ த்யானம்" (சிருங்கேரி ஸ்ரீ ஜகத்குரு ஸ்ரீ ஸந்நிதானம் அவர்கள் அருளிய விளக்கம்)</title>
+				<title>“காயத்ரீ த்யானம்” (சிருங்கேரி ஸ்ரீ ஜகத்குரு ஸ்ரீ ஸந்நிதானம் அவர்கள் அருளிய விளக்கம்)</title>
 				<feature></feature>
 				<page>0250-0252</page>
 				<allauthors>
@@ -23426,7 +24027,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1981" info="ரெளத்ரி: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1981" info="ரெளத்ரி : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (சிவானந்தலஹரீ)</title>
 				<feature></feature>
@@ -23562,7 +24163,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1981" info="ரெளத்ரி: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1981" info="ரெளத்ரி : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ குருராஜ ஸூக்திமாலிகா)</title>
 				<feature></feature>
@@ -23576,7 +24177,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>தியானமாவது தானவனாய்க் காண்பதுவே!</title>
+				<title>தியானமாவது தானவனாய்க் காண்பதுவே !</title>
 				<feature></feature>
 				<page>0300-0304</page>
 				<allauthors>
@@ -23644,7 +24245,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10" month="04-05" year="1981" info="துர்மதி: சித்திரை" maasa="" samvatsara="">
+		<part inum="10" month="04-05" year="1981" info="துர்மதி : சித்திரை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -23680,7 +24281,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>மார்க்கத்தில் பயமுண்டா?</title>
+				<title>மார்க்கத்தில் பயமுண்டா ?</title>
 				<feature></feature>
 				<page>0344-0344</page>
 				<allauthors />
@@ -23736,7 +24337,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11" month="05-06" year="1981" info="துர்மதி: வைகாசி" maasa="" samvatsara="">
+		<part inum="11" month="05-06" year="1981" info="துர்மதி : வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (யதிபஞ்சகம்)</title>
 				<feature></feature>
@@ -23772,7 +24373,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``சும்மா இருக்கும் சுகம்"</title>
+				<title>“சும்மா இருக்கும் சுகம்”</title>
 				<feature></feature>
 				<page>0383-0385</page>
 				<allauthors>
@@ -23802,7 +24403,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>``ஸ்ரீ சங்கர க்ருபா" வினால் காணாமற்போனது கிடைத்தது</title>
+				<title>“ஸ்ரீ சங்கர க்ருபா” வினால் காணாமற்போனது கிடைத்தது</title>
 				<feature></feature>
 				<page>0394-0394</page>
 				<allauthors>
@@ -23836,7 +24437,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1981" info="துர்மதி: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1981" info="துர்மதி : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -23882,7 +24483,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>பக்தியா இது?</title>
+				<title>பக்தியா இது ?</title>
 				<feature></feature>
 				<page>0434-0435</page>
 				<allauthors>
@@ -23910,7 +24511,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>முன்னேற்றப் பாதையில் ``ஸ்ரீ சங்கர க்ருபா" - சந்தாதாரர்களுக்கு ஓர் வேண்டுகோள்</title>
+				<title>முன்னேற்றப் பாதையில் “ஸ்ரீ சங்கர க்ருபா” - சந்தாதாரர்களுக்கு ஓர் வேண்டுகோள்</title>
 				<feature></feature>
 				<page>0450-0450</page>
 				<allauthors />
@@ -23918,7 +24519,7 @@
 		</part>
 	</volume>
 	<volume vnum="023">
-		<part inum="01" month="07-08" year="1981" info="துர்மதி: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1981" info="துர்மதி : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>23-வது மலரின் விஷய அட்டவணை</title>
 				<feature></feature>
@@ -24004,7 +24605,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``தூமலர்த் தூவித் தொழுது"</title>
+				<title>“தூமலர்த் தூவித் தொழுது”</title>
 				<feature></feature>
 				<page>0024-0028</page>
 				<allauthors>
@@ -24052,13 +24653,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>சந்தா நேயர்கள் கவனத்திற்கு!</title>
+				<title>சந்தா நேயர்கள் கவனத்திற்கு !</title>
 				<feature></feature>
 				<page>0048ab-0048ab</page>
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08-09" year="1981" info="துர்மதி: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08-09" year="1981" info="துர்மதி : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>ஆசிச்செய்தி</title>
 				<feature></feature>
@@ -24126,7 +24727,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>வேதம் ஓதுவதால் என்ன பயன்?</title>
+				<title>வேதம் ஓதுவதால் என்ன பயன் ?</title>
 				<feature></feature>
 				<page>0070-0071</page>
 				<allauthors>
@@ -24180,7 +24781,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>த்ரிபுண்ட்ர தாரணம் ``காசியப"</title>
+				<title>த்ரிபுண்ட்ர தாரணம் “காசியப”</title>
 				<feature></feature>
 				<page>0089-0092</page>
 				<allauthors />
@@ -24198,7 +24799,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="03" month="09-10" year="1981" info="துர்மதி: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09-10" year="1981" info="துர்மதி : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணி)</title>
 				<feature></feature>
@@ -24242,7 +24843,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ கிருஷ்ணன் நித்ய பிரஹ்மசாரியா?</title>
+				<title>ஸ்ரீ கிருஷ்ணன் நித்ய பிரஹ்மசாரியா ?</title>
 				<feature></feature>
 				<page>0119-0121</page>
 				<allauthors>
@@ -24250,7 +24851,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>த்ரிபுண்ட்ர தாரணம் ``காசியப"</title>
+				<title>த்ரிபுண்ட்ர தாரணம் “காசியப”</title>
 				<feature></feature>
 				<page>0122-0123</page>
 				<allauthors />
@@ -24264,7 +24865,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``மலரடியின் மகிமை"</title>
+				<title>“மலரடியின் மகிமை”</title>
 				<feature></feature>
 				<page>0125-0127</page>
 				<allauthors>
@@ -24310,7 +24911,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10-11" year="1981" info="துர்மதி: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10-11" year="1981" info="துர்மதி : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -24348,7 +24949,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ கிருஷ்ணன் நித்ய பிரஹ்மசாரியா?</title>
+				<title>ஸ்ரீ கிருஷ்ணன் நித்ய பிரஹ்மசாரியா ?</title>
 				<feature></feature>
 				<page>0151-0153</page>
 				<allauthors>
@@ -24428,7 +25029,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1981" info="துர்மதி: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1981" info="துர்மதி : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ ஷண்முக பஞ்சரத்ன ஸ்துதி)</title>
 				<feature></feature>
@@ -24488,7 +25089,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>கோஷம்?</title>
+				<title>கோஷம் ?</title>
 				<feature></feature>
 				<page>0207-0207</page>
 				<allauthors />
@@ -24528,7 +25129,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="06" month="12-01" year="1981" info="துர்மதி: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12-01" year="1981" info="துர்மதி : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ ஸுப்ரஹ்மண்ய புஜங்கம்)</title>
 				<feature></feature>
@@ -24576,7 +25177,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>பஞ்சதசியில் ``புருஷன்"</title>
+				<title>பஞ்சதசியில் “புருஷன்”</title>
 				<feature></feature>
 				<page>0239-0242</page>
 				<allauthors>
@@ -24584,7 +25185,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>அந்தியக் காலத்தில் வருவார் யாரோ?</title>
+				<title>அந்தியக் காலத்தில் வருவார் யாரோ ?</title>
 				<feature></feature>
 				<page>0242-0242</page>
 				<allauthors />
@@ -24630,7 +25231,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1982" info="துர்மதி: தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1982" info="துர்மதி : தை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ ரங்கநாத ஸ்தவம்)</title>
 				<feature></feature>
@@ -24716,7 +25317,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1982" info="துர்மதி: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1982" info="துர்மதி : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சிவ நாமாவள்யஷ்டகம்)</title>
 				<feature></feature>
@@ -24788,7 +25389,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1982" info="துர்மதி: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1982" info="துர்மதி : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -24866,7 +25467,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="10-11" month="04-06" year="1982" info="துந்துபி: சித்திரை-வைகாசி" maasa="" samvatsara="">
+		<part inum="10-11" month="04-06" year="1982" info="துந்துபி : சித்திரை-வைகாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ந்ருஸிம்ஹ புஜங்கப்ரயாதஸ்தவம்)</title>
 				<feature></feature>
@@ -25036,7 +25637,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="06-07" year="1982" info="துந்துபி: ஆனி" maasa="" samvatsara="">
+		<part inum="12" month="06-07" year="1982" info="துந்துபி : ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸுவர்ணமாலா ஸ்துதி)</title>
 				<feature></feature>
@@ -25063,7 +25664,7 @@
 				<page>0477-0477</page>
 				<allauthors>
 					<author type="1" sal="ஸ்ரீ">சுப்பரத்னம், கெ. வி.</author>
-					<author type="1" sal="ஸ்ரீ">வெங்கடசேஷ அய்யர், கெ. ஆர்.</author>
+					<author type="2" sal="ஸ்ரீ">வெங்கடசேஷ அய்யர், கெ. ஆர்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25151,7 +25752,7 @@
 		</part>
 	</volume>
 	<volume vnum="024">
-		<part inum="01-02" month="07-09" year="1982" info="துந்துபி: ஆடி-ஆவணி" maasa="" samvatsara="">
+		<part inum="01-02" month="07-09" year="1982" info="துந்துபி : ஆடி-ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ கணாதிப பஞ்சரத்னம்)</title>
 				<feature></feature>
@@ -25275,7 +25876,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10-11" year="1982" info="துந்துபி: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10-11" year="1982" info="துந்துபி : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>An Appeal</title>
 				<feature></feature>
@@ -25289,7 +25890,7 @@
 				<feature></feature>
 				<page>0074af-0074ag</page>
 				<allauthors>
-					<author type="1" sal="">Venkatasubbiah, A.</author>
+					<author type="1" sal="">Venkatasubbaiah, A.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25379,7 +25980,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1982" info="துந்துபி: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1982" info="துந்துபி : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ சிவகேசாதி பாதாந்தவர்ணன ஸ்தோத்திரம்)</title>
 				<feature></feature>
@@ -25467,11 +26068,11 @@
 				<feature></feature>
 				<page>0167-0167</page>
 				<allauthors>
-					<author type="1" sal="">Venkatasubbiah, A.</author>
+					<author type="1" sal="">Venkatasubbaiah, A.</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1983" info="துந்துபி: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1983" info="துந்துபி : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>An Appeal to you - Sani Preethi</title>
 				<feature></feature>
@@ -25593,7 +26194,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1983" info="துந்துபி: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1983" info="துந்துபி : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ ஸந்நிதானம் அவர்களின் வர்தந்தி</title>
 				<feature></feature>
@@ -25631,7 +26232,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>மஹனீயர்கள் வாக்கு-8 - நான் யார்?</title>
+				<title>மஹனீயர்கள் வாக்கு-8 - நான் யார் ?</title>
 				<feature></feature>
 				<page>0307-0311</page>
 				<allauthors>
@@ -25719,7 +26320,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="11-12" month="05-07" year="1983" info="ருதிரோத்காரி: வைகாசி-ஆனி" maasa="" samvatsara="">
+		<part inum="11-12" month="05-07" year="1983" info="ருதிரோத்காரி : வைகாசி-ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>வியாஸ பூஜா - சாதுர்மாஸ்யம்</title>
 				<feature></feature>
@@ -25841,7 +26442,7 @@
 		</part>
 	</volume>
 	<volume vnum="025">
-		<part inum="01" month="07-08" year="1983" info="ருதிரோத்காரி: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1983" info="ருதிரோத்காரி : ஆடி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -25951,7 +26552,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri P. R. Hariharan, Publisher, Sri `Sankara Kripa' (Kannada)</title>
+				<title>Sri P. R. Hariharan, Publisher, Sri ‘Sankara Kripa’ (Kannada)</title>
 				<feature>Messages</feature>
 				<page>0008-0008</page>
 				<allauthors />
@@ -25965,7 +26566,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhavan's Journal</title>
+				<title>Bhavan’s Journal</title>
 				<feature>Messages</feature>
 				<page>0010-0010</page>
 				<allauthors>
@@ -26003,7 +26604,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sri T. Ramalingeswara Rao, Editor, `Sri Sankara Kripa' (Telugu)</title>
+				<title>Sri T. Ramalingeswara Rao, Editor, ‘Sri Sankara Kripa’ (Telugu)</title>
 				<feature>Messages</feature>
 				<page>0015-0015</page>
 				<allauthors />
@@ -26041,7 +26642,7 @@
 				<feature></feature>
 				<page>0020ab-0020ab</page>
 				<allauthors>
-					<author type="1" sal="">Nanjundiah, S. R.</author>
+					<author type="1" sal="">Nanjundaiah, S. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26069,7 +26670,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>அந்தே நாராயண ஸ்மிருதி:</title>
+				<title>அநந்தே நாராயண ஸ்மிருதி :</title>
 				<feature>கட்டுரைகள்</feature>
 				<page>0020az-0020be</page>
 				<allauthors>
@@ -26093,7 +26694,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஆலயம் தொழுவது ஏன்?</title>
+				<title>ஆலயம் தொழுவது ஏன் ?</title>
 				<feature>கட்டுரைகள்</feature>
 				<page>0020bq-0020by</page>
 				<allauthors>
@@ -26121,7 +26722,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04-05" month="11-01" year="1983" info="ருதிரோத்காரி: ஐப்பசி-கார்த்திகை" maasa="" samvatsara="">
+		<part inum="04-05" month="11-01" year="1983" info="ருதிரோத்காரி : ஐப்பசி-கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>சேலத்தில் கோடி அர்ச்சனை அதிருத்ர மஹாயக்ஞம்</title>
 				<feature></feature>
@@ -26241,7 +26842,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>இப்படியும் சொல்லலாமோ?</title>
+				<title>இப்படியும் சொல்லலாமோ ?</title>
 				<feature></feature>
 				<page>0195-0201</page>
 				<allauthors />
@@ -26253,7 +26854,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10-12" month="05-07" year="1984" info="ருதிரோத்காரி: சித்திரை-ஆனி" maasa="" samvatsara="">
+		<part inum="10-12" month="05-07" year="1984" info="ருதிரோத்காரி : சித்திரை-ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -26302,7 +26903,7 @@
 				<page>0364-0366</page>
 				<allauthors>
 					<author type="1" sal="">Giridhara Sastry, C. V.</author>
-					<author type="1" sal="">Hariharan, P. R.</author>
+					<author type="2" sal="">Hariharan, P. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26314,7 +26915,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஞானிகளுக்கு ஸதாசாரம் உண்டா?</title>
+				<title>ஞானிகளுக்கு ஸதாசாரம் உண்டா ?</title>
 				<feature></feature>
 				<page>0373-0379</page>
 				<allauthors>
@@ -26322,7 +26923,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>உயிரைக் காத்தது எது?</title>
+				<title>உயிரைக் காத்தது எது ?</title>
 				<feature></feature>
 				<page>0380-0382</page>
 				<allauthors>
@@ -26338,7 +26939,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>நல்வாழ்வுக்கு சுலபமான வழி உண்டா?</title>
+				<title>நல்வாழ்வுக்கு சுலபமான வழி உண்டா ?</title>
 				<feature></feature>
 				<page>0391-0395</page>
 				<allauthors>
@@ -26352,7 +26953,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>அம்பாளுக்கு ஆயுதங்கள் ஏன்?</title>
+				<title>அம்பாளுக்கு ஆயுதங்கள் ஏன் ?</title>
 				<feature></feature>
 				<page>0403-0406</page>
 				<allauthors>
@@ -26464,9 +27065,9 @@
 		</part>
 	</volume>
 	<volume vnum="026">
-		<part inum="01" month="07-08" year="1984" info="ரக்தாக்ஷி: ஆடி" maasa="" samvatsara="">
+		<part inum="01" month="07-08" year="1984" info="ரக்தாக்ஷி : ஆடி" maasa="" samvatsara="">
 			<entry>
-				<title>சந்தாதாரர்களுக்கு!</title>
+				<title>சந்தாதாரர்களுக்கு !</title>
 				<feature></feature>
 				<page>0000ab-0000ab</page>
 				<allauthors />
@@ -26508,7 +27109,7 @@
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
-					<author type="3" sal="">அய்யர், ஆர். கெ.</author>
+					<author type="1" sal="">அய்யர், ஆர். கெ.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26568,7 +27169,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ராமாயண விமர்சனம் - வசிஷ்டர் தவறு செய்தாரா?</title>
+				<title>ராமாயண விமர்சனம் - வசிஷ்டர் தவறு செய்தாரா ?</title>
 				<feature></feature>
 				<page>0033-0038</page>
 				<allauthors>
@@ -26616,7 +27217,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="02" month="08-09" year="1984" info="ரக்தாக்ஷி: ஆவணி" maasa="" samvatsara="">
+		<part inum="02" month="08-09" year="1984" info="ரக்தாக்ஷி : ஆவணி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை</title>
 				<feature></feature>
@@ -26730,13 +27331,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>நினைவூட்டுறோம்!!!</title>
+				<title>நினைவூட்டுறோம் !!!</title>
 				<feature></feature>
 				<page>0088ab-0088ab</page>
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="03" month="09-10" year="1984" info="ரக்தாக்ஷி: புரட்டாசி" maasa="" samvatsara="">
+		<part inum="03" month="09-10" year="1984" info="ரக்தாக்ஷி : புரட்டாசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸ்ரீ ஷண்முகபுஜங்க ஸ்துதி)</title>
 				<feature></feature>
@@ -26832,7 +27433,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="04" month="10-11" year="1984" info="ரக்தாக்ஷி: ஐப்பசி" maasa="" samvatsara="">
+		<part inum="04" month="10-11" year="1984" info="ரக்தாக்ஷி : ஐப்பசி" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -26850,7 +27451,7 @@
 				<feature></feature>
 				<page>0005-0007</page>
 				<allauthors>
-					<author type="3" sal="">மௌத்கல்யன்</author>
+					<author type="1" sal="">மௌத்கல்யன்</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26926,13 +27527,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>நினைவூட்டுகிறோம்!!!</title>
+				<title>நினைவூட்டுகிறோம் !!!</title>
 				<feature></feature>
 				<page>0066-0066</page>
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="05" month="11-12" year="1984" info="ரக்தாக்ஷி: கார்த்திகை" maasa="" samvatsara="">
+		<part inum="05" month="11-12" year="1984" info="ரக்தாக்ஷி : கார்த்திகை" maasa="" samvatsara="">
 			<entry>
 				<title>படம் - ஸ்ரீ தத்தாத்ரேயர்</title>
 				<feature></feature>
@@ -26958,7 +27559,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>ஸ்ரீ ஆசார்யாளிடம் யாசிக்கவேண்டியது என்ன?</title>
+				<title>ஸ்ரீ ஆசார்யாளிடம் யாசிக்கவேண்டியது என்ன ?</title>
 				<feature></feature>
 				<page>0133-0135</page>
 				<allauthors>
@@ -27049,7 +27650,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="06" month="12-01" year="1984" info="ரக்தாக்ஷி: மார்கழி" maasa="" samvatsara="">
+		<part inum="06" month="12-01" year="1984" info="ரக்தாக்ஷி : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>ஸ்ரீ சங்கர ஜயந்தி</title>
 				<feature></feature>
@@ -27091,7 +27692,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ ஆசார்யாளிடம் யாசிக்கவேண்டியது என்ன?</title>
+				<title>ஸ்ரீ ஆசார்யாளிடம் யாசிக்கவேண்டியது என்ன ?</title>
 				<feature></feature>
 				<page>0204-0208</page>
 				<allauthors>
@@ -27129,7 +27730,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>புத்தக வரவு - எதைப் படிக்கவேண்டும்?</title>
+				<title>புத்தக வரவு - எதைப் படிக்கவேண்டும் ?</title>
 				<feature></feature>
 				<page>0221-0224</page>
 				<allauthors>
@@ -27137,7 +27738,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="07" month="01-02" year="1985" info="ரக்தாக்ஷி: தை" maasa="" samvatsara="">
+		<part inum="07" month="01-02" year="1985" info="ரக்தாக்ஷி : தை" maasa="" samvatsara="">
 			<entry>
 				<title>Tour Programme of His Holiness Sri Jagadguru Sri Bharathi Theertha Mahaswamigal</title>
 				<feature></feature>
@@ -27181,11 +27782,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>புத்தக வரவு - ஹஸ்தாமலகீயம்-டாக்டர் மணி அய்யர், வி. எஸ்.</title>
+				<title>புத்தக வரவு - ஹஸ்தாமலகீயம்</title>
 				<feature></feature>
 				<page>0241-0242</page>
 				<allauthors>
-					<author type="1" sal="">ஆசிரியர்</author>
+					<author type="1" sal="டாக்டர்">மணி அய்யர், வி. எஸ்.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27237,7 +27838,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="08" month="02-03" year="1985" info="ரக்தாக்ஷி: மாசி" maasa="" samvatsara="">
+		<part inum="08" month="02-03" year="1985" info="ரக்தாக்ஷி : மாசி" maasa="" samvatsara="">
 			<entry>
 				<title>மைசூர் நகரில் ஸ்ரீ தக்ஷிணாம்னாய சாரதா பீடாதிபதி ஜகத்குரு ஸ்ரீ ஸந்நிதானம் அவர்களின் வர்தந்தி விழா</title>
 				<feature></feature>
@@ -27257,13 +27858,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>சந்தாதாரர்களுக்கு!</title>
+				<title>சந்தாதாரர்களுக்கு !</title>
 				<feature></feature>
 				<page>0268-0268</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sri Samkaracharya and His Sringeri Sarada Pitha</title>
+				<title>Sri Sankaracharya and His Sringeri Sarada Pitha</title>
 				<feature></feature>
 				<page>0269-0272</page>
 				<allauthors>
@@ -27279,7 +27880,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>``அக்னிதேவனின் வம்சம்"</title>
+				<title>“அக்னிதேவனின் வம்சம்”</title>
 				<feature></feature>
 				<page>0277-0280</page>
 				<allauthors>
@@ -27303,7 +27904,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஆசார்யாள் யார்?</title>
+				<title>ஆசார்யாள் யார் ?</title>
 				<feature></feature>
 				<page>0289-0295</page>
 				<allauthors>
@@ -27351,7 +27952,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="03-04" year="1985" info="ரக்தாக்ஷி: பங்குனி" maasa="" samvatsara="">
+		<part inum="09" month="03-04" year="1985" info="ரக்தாக்ஷி : பங்குனி" maasa="" samvatsara="">
 			<entry>
 				<title>புத்தக வரவு - ஸ்ரீ சங்கர வம்சம்</title>
 				<feature></feature>
@@ -27395,7 +27996,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sri Samkaracharya and His Sringeri Sarada Pitha</title>
+				<title>Sri Sankaracharya and His Sringeri Sarada Pitha</title>
 				<feature></feature>
 				<page>0321-0324</page>
 				<allauthors>
@@ -27425,7 +28026,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>இளைஞர் பகுதி - தெரியுமா?</title>
+				<title>இளைஞர் பகுதி - தெரியுமா ?</title>
 				<feature></feature>
 				<page>0339-0340</page>
 				<allauthors>
@@ -27471,7 +28072,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="10" month="04-05" year="1985" info="க்ரோதன: சித்திரை" maasa="" samvatsara="">
+		<part inum="10" month="04-05" year="1985" info="க்ரோதன : சித்திரை" maasa="" samvatsara="">
 			<entry>
 				<title>புதிய வெளியீடுகள்</title>
 				<feature></feature>
@@ -27519,7 +28120,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Samkaracharya and His Sringeri Sarada Pitha</title>
+				<title>Sri Sankaracharya and His Sringeri Sarada Pitha</title>
 				<feature></feature>
 				<page>0377-0380</page>
 				<allauthors>
@@ -27611,7 +28212,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11-12" month="05-07" year="1985" info="க்ரோதன: வைகாசி-ஆனி" maasa="" samvatsara="">
+		<part inum="11-12" month="05-07" year="1985" info="க்ரோதன : வைகாசி-ஆனி" maasa="" samvatsara="">
 			<entry>
 				<title>புதிய வெளியீடுகள்</title>
 				<feature></feature>
@@ -27655,7 +28256,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Samkaracharya and His Sringeri Sarada Pitha</title>
+				<title>Sri Sankaracharya and His Sringeri Sarada Pitha</title>
 				<feature></feature>
 				<page>0423-0425</page>
 				<allauthors>
@@ -27809,7 +28410,7 @@
 		</part>
 	</volume>
 	<volume vnum="028">
-		<part inum="01" month="01" year="1988" info="ப்ரபவ: மார்கழி" maasa="" samvatsara="">
+		<part inum="01" month="01" year="1988" info="ப்ரபவ : மார்கழி" maasa="" samvatsara="">
 			<entry>
 				<title>Editorial</title>
 				<feature></feature>
@@ -27859,7 +28460,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>`சைத்ர' மாதத்தின் சிறப்புக்கள்</title>
+				<title>‘சைத்ர’ மாதத்தின் சிறப்புக்கள்</title>
 				<feature></feature>
 				<page>0015-0021</page>
 				<allauthors>
@@ -27931,7 +28532,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="02" month="02" year="1988" info="" maasa="" samvatsara="">
+		<part inum="02" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28007,7 +28608,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="03" month="03" year="1988" info="" maasa="" samvatsara="">
+		<part inum="03" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28055,7 +28656,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>துக்கம் ஏன்?</title>
+				<title>துக்கம் ஏன் ?</title>
 				<feature></feature>
 				<page>0095-0095</page>
 				<allauthors>
@@ -28121,7 +28722,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="04" month="04" year="1988" info="" maasa="" samvatsara="">
+		<part inum="04" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28223,7 +28824,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="05" month="05" year="1988" info="" maasa="" samvatsara="">
+		<part inum="05" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28275,11 +28876,11 @@
 				<feature></feature>
 				<page>0190-0196</page>
 				<allauthors>
-					<author type="3" sal="ஸ்ரீ">கிருஷ்ணஸ்வாமி அய்யர், ஆர்.</author>
+					<author type="1" sal="ஸ்ரீ">கிருஷ்ணஸ்வாமி அய்யர், ஆர்.</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="06" month="06" year="1988" info="" maasa="" samvatsara="">
+		<part inum="06" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28367,7 +28968,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="07" month="07" year="1988" info="" maasa="" samvatsara="">
+		<part inum="07" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28431,7 +29032,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part inum="08" month="08" year="1988" info="" maasa="" samvatsara="">
+		<part inum="08" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28507,7 +29108,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="09" month="09" year="1988" info="" maasa="" samvatsara="">
+		<part inum="09" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28569,7 +29170,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="10" month="10" year="1988" info="" maasa="" samvatsara="">
+		<part inum="10" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28617,7 +29218,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="11" month="11" year="1988" info="" maasa="" samvatsara="">
+		<part inum="11" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28707,7 +29308,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part inum="12" month="12" year="1988" info="" maasa="" samvatsara="">
+		<part inum="12" month="" year="" info="" maasa="" samvatsara="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -28785,6 +29386,358 @@
 				<feature></feature>
 				<page>0474-0474</page>
 				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="029">
+		<part inum="04" month="04" year="1989" info="" maasa="" samvatsara="">
+			<entry>
+				<title>ஸௌந்தர்யலஹரீ - (பிரார்த்தனை)</title>
+				<feature></feature>
+				<page>0105-0106</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>சிருங்கேரி ஶ்ரீ ஜகத்குரு ஶ்ரீ சந்திரசேகரபாரதீ ஸ்வாமிகள் அருளிய அமிருத மொழிகள்</title>
+				<feature></feature>
+				<page>0107-0112</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>சிருங்கிரி ஶ்ரீ மஹாஸ்வாமிகளீன் உபதேசம்</title>
+				<feature></feature>
+				<page>0113-0117</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு அனந்தஶ்ரீ ஸந்நிதானம் அவர்களின் அனுக்ரஹபாஷணம்</title>
+				<feature></feature>
+				<page>0118-0121</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>சிருங்ககிரியில் அதிருத்ர, ஸஹஸ்ர சண்டி</title>
+				<feature></feature>
+				<page>0122-0124</page>
+				<allauthors>
+					<author type="1" sal="">தேவி க்ருபா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>பங்குனி மாதச் சிறப்பு</title>
+				<feature></feature>
+				<page>0125-0128</page>
+				<allauthors>
+					<author type="1" sal="">கும்பகோணம் B. ராமசந்திர சர்மா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>அனந்தஶ்ரீ பாரதீ தீர்த்த ஸந்நிதானம் - ஓர் சிரு குறிப்பு</title>
+				<feature></feature>
+				<page>0129-0130</page>
+				<allauthors>
+					<author type="1" sal="">கே. மகாதேவன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>॥ श्री भारतीतीर्थ श्रये ॥</title>
+				<feature></feature>
+				<page>0131-0131</page>
+				<allauthors>
+					<author type="1" sal="">Ashok</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ ஸந்நிதானம் அவர்களின் விஜய யாத்திரை</title>
+				<feature></feature>
+				<page>0132-0135</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள்</title>
+				<feature></feature>
+				<page>0135-0137</page>
+				<allauthors />
+			</entry>
+		</part>	
+	</volume>
+	<volume vnum="030">
+		<part inum="05" month="05" year="1990" info="" maasa="" samvatsara="">
+		    <entry>
+				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
+				<feature></feature>
+				<page>0127-0128</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு ஶ்ரீ அபிநவ வித்யாதீர்த்த மஹாஸ்வாமிகள் உபதேசம்</title>
+				<feature></feature>
+				<page>0129-0132</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு அனந்தஶ்ரீ பாரதீதீர்த்த மஹாஸ்வாமிகள் அவர்களின் அருளுரை</title>
+				<feature></feature>
+				<page>0133-0136</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>மறு பிறவி கிடையாது</title>
+				<feature></feature>
+				<page>0136-0136</page>
+				<allauthors>
+					<author type="1" sal="">குருதத்வ மாலிகா</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ மஹாஸந்நிதானத்தின் மஹிமை</title>
+				<feature></feature>
+				<page>0137-0137</page>
+				<allauthors>
+					<author type="1" sal="">கோமதி கிருஷ்ணன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>“நன்னயம்”</title>
+				<feature></feature>
+				<page>0138-0142</page>
+				<allauthors>
+					<author type="1" sal="">அனந்தம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>“தனிமையின் இனிமை”</title>
+				<feature></feature>
+				<page>0143-0146</page>
+				<allauthors>
+					<author type="1" sal="">s. நம்பி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ வாஸிஷ்ட ஸாரம்</title>
+				<feature></feature>
+				<page>0147-0150</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள்</title>
+				<feature></feature>
+				<page>0151-0152</page>
+				<allauthors>
+					<author type="1" sal="">கே. நாராயண ஸ்வாமி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸம்ஸ்க்ருத பாடமாலா</title>
+				<feature></feature>
+				<page>0152a-0152d</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ மாதவீய சங்கர விஜயம்</title>
+				<feature></feature>
+				<page>0152e-0152n</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part inum="08" month="08" year="1990" info="" maasa="" samvatsara="">
+			<entry>
+				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
+				<feature></feature>
+				<page>0205-0206</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு ஶ்ரீ அபிநவ வித்யாதீர்த்த மஹாஸ்வாமிகள் உபதேசம்</title>
+				<feature></feature>
+				<page>0207-0210</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>40-வது வர்தந்தி மஹோத்ஸவத்தன்று (1-4-90) ஜகத்குரு அனந்தஶ்ரீ பாரதீதீர்த்த மஹாஸ்வாமிகள் அனுக்ரஹித்த அருளுரை</title>
+				<feature></feature>
+				<page>0211-0214</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ கணேச பஞ்சரத்னம்</title>
+				<feature></feature>
+				<page>0215-0216</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>சற்குரு, நற்குரு, நம்குரு</title>
+				<feature></feature>
+				<page>0217-0218</page>
+				<allauthors>
+					<author type="1" sal="">s. நம்பி</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஶ்ரீ வாஸிஷ்ட ஸாரம்</title>
+				<feature></feature>
+				<page>0219-0222</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>॥ श्री विद्यातीर्थगुरुपञ्चकम् ॥</title>
+				<feature></feature>
+				<page>0223-0223</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ வித்யாதீர்த்த குருபஞ்சகம்</title>
+				<feature></feature>
+				<page>0224-0224</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>கோவிந்தாயெனும் நாமம்</title>
+				<feature></feature>
+				<page>0225-0228</page>
+				<allauthors>
+					<author type="1" sal="">சசி இராம தியாகராஜன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸம்ஸ்க்ருத பாடமாலா</title>
+				<feature></feature>
+				<page>0228a-0228d</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ மாதவீய சங்கர விஜயம்</title>
+				<feature></feature>
+				<page>0228e-0228n</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part inum="09" month="09" year="1990" info="" maasa="" samvatsara="">
+			<entry>
+				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
+				<feature></feature>
+				<page>0229-0230</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு ஶ்ரீ அபிநவ வித்யாதீர்த்த மஹாஸ்வாமிகள் உபதேசம்</title>
+				<feature></feature>
+				<page>0231-0234</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>40-வது வர்தந்தி மஹோத்ஸவத்தன்று (1-4-90) ஜகத்குரு அனந்தஶ்ரீ பாரதீதீர்த்த மஹாஸ்வாமிகள் அனுக்ரஹித்த அருளுரை</title>
+				<feature></feature>
+				<page>0235-0236</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு ஶ்ரீ ஸந்நிதானம் உபதேசம்</title>
+				<feature></feature>
+				<page>0237-0238</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>கோவிந்தாயெனும் நாமம்</title>
+				<feature></feature>
+				<page>0239-0241</page>
+				<allauthors>
+					<author type="1" sal="">சசி இராம தியாகராஜன்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>சந்தாதாரர்கள் கவனத்திற்கு</title>
+				<feature></feature>
+				<page>0242-0242</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ வாஸிஷ்ட ஸாரம்</title>
+				<feature></feature>
+				<page>0243-0246</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>சிருங்கேரி வைபவங்கள் - ஶ்ரீ கணபதி வாக்யார்த்த வித்வத்ஸதஸ்</title>
+				<feature></feature>
+				<page>0247-0249</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு ஶ்ரீ அபிநவ வித்யாதீர்த்த மஹாஸ்வாமிகள் வார்ஷீக ஆராதனை</title>
+				<feature></feature>
+				<page>0250-0251</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>குறிப்புகள்</title>
+				<feature></feature>
+				<page>0252-0252</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஸம்ஸ்க்ருத பாடமாலா</title>
+				<feature></feature>
+				<page>0252a-0252d</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ மாதவீய சங்கர விஜயம்</title>
+				<feature></feature>
+				<page>0252e-0252n</page>
+				<allauthors />
+			</entry>
+		</part>
+	 <part inum="12" month="12" year="1990" info="" maasa="" samvatsara="">
+		    <entry>
+				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
+				<feature></feature>
+				<page>0307-0308</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு ஶ்ரீ அபிநவ வித்யாதீர்த்த மஹாஸ்வாமிகள் உபதேசம்</title>
+				<feature></feature>
+				<page>0309-0312</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஜகத்குரு ஶ்ரீ ஸந்நிதானம் உபதேசம்</title>
+				<feature></feature>
+				<page>0313-0316</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ வாஸிஷ்ட ஸாரம்</title>
+				<feature></feature>
+				<page>0317-0320</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>தடுத்தாட்கொள்ளல்</title>
+				<feature></feature>
+				<page>0321-0324</page>
+				<allauthors>
+					<author type="1" sal="">அனந்தம்</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ஸம்ஸ்க்ருத பாடமாலா</title>
+				<feature></feature>
+				<page>0324a-0324d</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ மாதவீய சங்கர விஜயம்</title>
+				<feature></feature>
+				<page>0324e-0324l</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ஶ்ரீ சங்கர க்ருபா 30-வது மலரின் விஷய அட்டவனை</title>
+				<feature></feature>
+				<page>0324m-0324r</page>
+				<allauthors /> 	 	
 			</entry>
 		</part>
 	</volume>
