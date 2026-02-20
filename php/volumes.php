@@ -35,7 +35,7 @@ if($num_rows > 0)
 		echo '<div class="card-body">';
 		
 		if($yearString)	
-			echo '<a href="get-parts.php?volume=' . $row['volume'] . '">மலர் '. intval($row['volume']) .'<br /><span class="small align-middle badge d-inline text-bg-warning">('. $yearString .')</span></a>';
+			echo '<a href="get-parts.php?volume=' . $row['volume'] . '">மலர் '. intval($row['volume']) .'<br /><span class="small align-middle badge d-inline text-bg-warning">('. toTamil($yearString) .')</span></a>';
 		else
 			echo '<a href="get-parts.php?volume=' . $row['volume'] . '">மலர் '. intval($row['volume']) .'</a>';
 
